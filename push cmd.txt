@@ -1,0 +1,5 @@
+git add .
+git commit -m "add ghpages deploy"
+git push -u origin main
+
+npm run deploy
