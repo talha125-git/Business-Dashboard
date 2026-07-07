@@ -1,5 +1,5 @@
 git add .
-git commit -m "add ghpages deploy"
+git commit -m "solve deployment error"
 git push -u origin main
 
 npm run deploy
